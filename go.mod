@@ -4,8 +4,7 @@ go 1.26.1
 
 require (
 	charm.land/bubbles/v2 v2.0.0
-  charm.land/arcane/backend v1.18.1
-	charm.land/bubbletea/v2 v2.0.1
+ 	charm.land/bubbletea/v2 v2.0.1
 	charm.land/glamour/v2 v2.0.0
 	charm.land/lipgloss/v2 v2.0.1
 	deps.dev/api/v3 v3.0.0-20260225225317-765e10b45d5b
@@ -14,6 +13,7 @@ require (
 	deps.dev/util/resolve v0.0.0-20260225225317-765e10b45d5b
 	deps.dev/util/semver v0.0.0-20260225225317-765e10b45d5b
 	github.com/BurntSushi/toml v1.6.0
+  github.com/getarcaneapp/arcane/backend v1.18.1
 	github.com/CycloneDX/cyclonedx-go v0.10.0
 	github.com/gkampitakis/go-snaps v0.5.20
 	github.com/go-git/go-git/v5 v5.17.0
