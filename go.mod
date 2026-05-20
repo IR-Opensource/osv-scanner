@@ -4,7 +4,7 @@ go 1.26.1
 
 require (
 	charm.land/bubbles/v2 v2.0.0
-  arcane/backend v1.18.1
+  charm.land/arcane/backend v1.18.1
 	charm.land/bubbletea/v2 v2.0.1
 	charm.land/glamour/v2 v2.0.0
 	charm.land/lipgloss/v2 v2.0.1
